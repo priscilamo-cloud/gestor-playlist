@@ -16,7 +16,7 @@ Java 21 (compatible con Java 17 o superior).
 - `Nodo.java`: nodo con enlaces anterior y siguiente.
 - `ListaReproduccion.java`: lista doblemente enlazada circular.
 - `Menu.java`: menú de consola.
-- `Main.java`: punto de entrada (si creaste esta clase).
+- `Main.java`: punto de entrada.
 - `PruebasLista.java`: pruebas reproducibles.
 
 ## Compilación
